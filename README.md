@@ -36,7 +36,7 @@
 - **[aadakouda/Hackathon4BuildAtMercari](https://github.com/aadakouda/Hackathon4BuildAtMercari)**
 	- 前述のBuild@Mercariのハッカソンでチーム開発しました。
 	- 「メルカリの出品機能」をテーマに、物々交換で出品・購入できる機能を発表しました。
-	- アイディアとMock・バックエンド開発を担当しました。
+	- アイディア発案とMock・バックエンド開発を担当しました。
 - **[aadakouda/aho3](https://github.com/aadakouda/aho3)**
 	- 世界のナベアツを再現するネタアプリです。
 	- 自分でAWSにアプリをデプロイしてみたくて作成しました。
@@ -50,19 +50,24 @@
 
 ## 資格
 - **応用情報技術者・基本情報技術者**
+	- [IPA 独立行政法人 情報処理推進機構：制度の概要：応用情報技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html)
 	- 文系かつ未経験でIT業界に入ったため、情報系の知識を補うために受験しました。
 	- 午後問題は低レイヤーに関する知識の欠如・ソフトウェアエンジニアのキャリア意識して選択しました。
 		- 基本情報技術者の選択問題：ソフトウェア・ハードウェア、ソフトウェア設計、データ構造及びアルゴリズム、アセンブラ
 		- 応用情報技術者の選択問題：プログラミング、ネットワーク、データベース、組込みシステム開発
 - **Oracle Certified Java Programmer, Gold SE 11・Silver SE 8**
+	- [Java SE 11 Programmer II (1Z0-816-JPN) 試験 | Oracle University](https://www.oracle.com/jp/education/certification/1z0-816-jpn-31705-ja.html)
 	- 業務でのスキルアップのために受験しました。
 	- 業務都合で古いバージョンを使用しているため、キャッチアップ目的でGold受験時はより新しいバージョンで受験しました。
 - **LinuC Level2**
+	- [LinuCレベル2 Version 10.0 試験概要 | Linux技術者認定試験 リナック | LPI-Japan](https://linuc.org/linuc2/)
 	- 業務であまりLinuxやCLIを使用しないため、CLI操作に憧れて受験しました。
 	- Dockerやインフラ知識、プロセスなどについても触れることができて、とても良い経験になりました。
-- **HTML5 Level1**
+- **HTML5 プロフェッショナル認定試験 Level1**
+	- [HTML5プロフェッショナル認定試験 レベル1について（Ver2.5）｜試験概要｜Web資格なら「HTML5プロフェッショナル認定試験」公式サイト](https://html5exam.jp/outline/lv1.html)
 	- 体系的にHTML/CSSを勉強したいと思い受験しました。
 - **OSS-DB Silver**
+	- [OSS-DB Silver](https://oss-db.jp/outline/silver)
 	- SELECT/INSERT/UPDATE/DELETEを覚えた頃に受かるだろうと思って受験しました。
 	- DDL、DML、DCLやPostgreSQLの設定ファイルなど試験範囲内でも知らないことがたくさんあったので、開発業務で使っている技術以外にも目を向けるきっかけになりました。
 - **TOEIC 885**
