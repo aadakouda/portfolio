@@ -70,7 +70,7 @@
 	- [OSS-DB Silver](https://oss-db.jp/outline/silver)
 	- SELECT/INSERT/UPDATE/DELETEを覚えた頃に受かるだろうと思って受験しました。
 	- DDL、DML、DCLやPostgreSQLの設定ファイルなど試験範囲内でも知らないことがたくさんあったので、開発業務で使っている技術以外にも目を向けるきっかけになりました。
-- **TOEIC 885**
+- **TOEIC 855**
 
 ## 言語
 - 日本語 ★★★★★
