@@ -3,7 +3,7 @@
 
 ## 基本情報
 - SIer勤務、開発部署所属3年目。
-- 明治大学 政治経済学科 卒。
+- 明治大学 政治経済学部 経済学科 卒。
 - AtCoder 茶色：[https://atcoder.jp/users/kouda](https://atcoder.jp/users/kouda)
 - LinkedIn：[https://www.linkedin.com/in/miyumiya/](https://www.linkedin.com/in/miyumiya/)
 - はてなブログ：[https://kame3xkame3.hatenablog.jp](https://kame3xkame3.hatenablog.jp)
